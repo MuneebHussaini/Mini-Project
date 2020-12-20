@@ -1,0 +1,8 @@
+Lenovo ThinkPad E14     |
+Intel Core i5 4.2GHz    |
+Windows 10 Home         |
+14in HD IPS             |
+8GB                     |
+1TB                     |
+1.69kg                  |
+Intel Integrated        |

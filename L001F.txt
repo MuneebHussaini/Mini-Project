@@ -1,0 +1,8 @@
+HP 15 db1069AU          |
+AMD Ryzen 3 2.6 GHz     |
+Windows 10 Home         |
+15.6in HD WLED          |
+4GB                     |
+1TB                     |
+2.04kg                  |
+AMD Radeon Vega 3       |

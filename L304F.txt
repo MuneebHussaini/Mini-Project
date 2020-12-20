@@ -1,0 +1,8 @@
+Lenovo Legion 5i        |
+Intel Core i5 4.5GHz    |
+Windows 10 Home         |
+15.6in HD IPS 120Hz     |
+8GB                     |
+1TB                     |
+2.3kg                   |
+NVIDIA GeForce GTX1650Ti|

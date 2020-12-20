@@ -1,0 +1,8 @@
+Lenovo IdeaPad Slim 3   |
+AMD 3020e 2.6GHz        |
+Windows 10 Home         |
+15.6in HD               |
+4GB                     |
+1TB                     |
+1.85kg                  |
+AMD Integrated Graphics |

@@ -1,0 +1,8 @@
+Dell Inspiron 3593      |
+Intel Core i3 1.2GHz    |
+Windows 10              |
+15.6in FHD LED          |
+8GB                     |
+1TB                     |
+2.02kg                  |
+Intel UHD Graphics 610  |

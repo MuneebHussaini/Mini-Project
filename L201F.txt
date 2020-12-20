@@ -1,0 +1,8 @@
+ASUS ZenBook 13         |
+Intel Core i7 4.6GHz    |
+Windows 10 Home         |
+13.3in LED FHD          |
+8GB                     |
+512GB                   |
+1.19kg                  |
+Intel UHD Graphics 620  |

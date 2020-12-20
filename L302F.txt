@@ -1,0 +1,8 @@
+Lenovo IdeaPad S145     |
+AMD Ryzen 5 3500U 3.7GHz|
+Windows 10 Home         |
+15.6in HD               |
+8GB                     |
+1TB                     |
+1.85kg                  |
+AMD Integrated Graphics |

@@ -1,0 +1,8 @@
+Lenovo Legion Y540      |
+Intel Core i5 4.1GHz    |
+Windows 10 Home         |
+15.6in HD IPS 60Hz      |
+8GB                     |
+1TB                     |
+2.3kg                   |
+NVIDIA GTX 1650         |

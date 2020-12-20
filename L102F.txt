@@ -1,0 +1,8 @@
+DELL Inspiron 3583      |
+Pentium 5405U 2.3GHz    |
+Windows 10 Home         |
+15.6in HD LED           |
+4GB                     |
+1TB                     |
+2.2kg                   |
+Intel UHD Graphics 610  |

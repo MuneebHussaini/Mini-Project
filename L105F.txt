@@ -1,0 +1,8 @@
+Dell Inspiron 5408      |
+Intel Core i5 3.6GHz    |
+Windows 10 Home         |
+14in FHD IPS NTSC WVA   |
+8GB                     |
+512GB                   |
+1.4kg                   |
+NVIDIA GeForce MX330    |

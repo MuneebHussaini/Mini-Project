@@ -1,0 +1,8 @@
+Dell Inspiron 3595      |
+AMD A6-9225 2.5GHz      |
+Windows 10 Home         |
+15.6in HD LED           |
+4GB                     |
+1TB                     |
+2.28kg                  |
+Radeon R4 Graphics      |

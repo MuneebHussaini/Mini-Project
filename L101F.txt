@@ -1,0 +1,8 @@
+Dell Inspiron 3505      |
+AMD Ryzen 5 3500U 2.2GHz|
+Windows 10 Home         |
+15.6in FHD LED WVA      |
+8GB                     |
+512GB                   |
+1.96kg                  |
+Radeon Vega 8           |

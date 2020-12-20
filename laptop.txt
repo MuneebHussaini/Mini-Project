@@ -1,0 +1,8 @@
+Model       :
+Processor   :
+OS          :
+Display     :
+RAM         :
+Storage     :
+Weight      :
+Graphics    :

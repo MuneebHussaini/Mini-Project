@@ -1,0 +1,8 @@
+Lenovo ThinkPad E15     |
+Intel Core i5 4.2GHz    |
+Windows 10 Home         |
+15.6in HD IPS           |
+8GB                     |
+1TB                     |
+1.9kg                   |
+Intel Integrated        |

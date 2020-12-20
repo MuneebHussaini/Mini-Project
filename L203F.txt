@@ -1,0 +1,8 @@
+ASUS VivoBook 15        |
+Intel Core i3 3.0 GHz   |
+Windows 10 Home         |
+15.6in LED              |
+8GB                     |
+256GB                   |
+1.8kg                   |
+Intel UHD Graphics      |
