@@ -1,0 +1,8 @@
+Redmi 9             |
+6.53in IPS LCD      |
+3GB                 |
+32GB                |
+13MP+8MP+5MP+2MP    |
+8MP                 |
+5020 mAh            |
+Mediatek Helio G80  |

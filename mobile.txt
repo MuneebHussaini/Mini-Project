@@ -1,0 +1,8 @@
+Model       :
+Display     :
+RAM         :
+Storage     :
+Rear Camera :
+Front Camera:
+Battery     :
+Processor   :

@@ -1,0 +1,8 @@
+Redmi Note 9        |
+6.53in IPS LCD      |
+3GB                 |
+64GB                |
+48MP+8MP+2MP+2MP    |
+13MP                |
+5020 mAh            |
+MediaTek Helio G85  |

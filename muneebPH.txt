@@ -1,0 +1,6 @@
+
+		Tue Dec 01 01:17:58 2020
+
+
+		PRODUCT ID			QUANTITY	PRICE
+		M001  				1			27999

@@ -1,0 +1,8 @@
+Redmi 9A            |
+6.53in IPS LCS      |
+2GB                 |
+32GB                |
+13MP                |
+5MP                 |
+5000 mAh            |
+MediaTek Helio G25  |
